@@ -1,0 +1,2 @@
+D:\plugins propios\llamadas españolas\llamadas españolas\obj\Debug\llamadas  españolas.csproj.AssemblyReference.cache
+D:\plugins propios\llamadas españolas\llamadas españolas\obj\Debug\llamadas  españolas.csproj.CoreCompileInputs.cache
