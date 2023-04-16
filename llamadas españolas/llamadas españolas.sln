@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "llamadas  españolas", "llamagas españa\llamadas  españolas.csproj", "{0B1048DA-480D-4734-8E15-49ACD3012855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B1048DA-480D-4734-8E15-49ACD3012855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1048DA-480D-4734-8E15-49ACD3012855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1048DA-480D-4734-8E15-49ACD3012855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1048DA-480D-4734-8E15-49ACD3012855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C66E74-483E-4DCC-840E-20B49AA96B7A}
+	EndGlobalSection
+EndGlobal
